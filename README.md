@@ -6,5 +6,6 @@ Vaadin 8 and Charts 4 version of sample codes used in tutorials:
 
 To build and run `mvn install jetty:run`
 
-Requires active Vaadin Charts 3 license. Trial licenses are available.
+Requires active Vaadin Charts 4 license. Trial licenses are available.
+If you are looking sample codse for Vaadin Charts 3, go to https://github.com/johannesh2/vaadin-charts3-samples
 
